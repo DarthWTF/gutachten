@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.18)  27 SEP 2020 02:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.3.18)  27 SEP 2020 19:01
 entering extended mode
 **e:/awolfgang/Documents/AK_FC/gutachten/quoteunquoteGutachten.tex
 (e:/awolfgang/Documents/AK_FC/gutachten/quoteunquoteGutachten.tex
@@ -1052,34 +1052,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 18--20
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 20.
+(babel)             in language append on input line 22.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 20.
+(babel)             in language append on input line 22.
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
+Underfull \hbox (badness 10000) in paragraph at lines 23--24
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 28.
+(babel)             in language append on input line 25.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 28.
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--30
-
- []
-
+(babel)             in language append on input line 25.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 30.
+(babel)             in language append on input line 27.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 30.
+(babel)             in language append on input line 27.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 30.
+(babel)             in language append on input line 29.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 30.
+(babel)             in language append on input line 29.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 32.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 32.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 32.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 32.
 [2]
-Overfull \hbox (1.02727pt too wide) in paragraph at lines 33--34
-\T1/cmr/m/n/14.4 und elek-tri-sche Un-ter-stüt-zung er-for-dern an-ge-mes-se-ne Brem-sen. Man-
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 34.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 34.
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
  []
 
 Package babel Info: Redefining ngerman shorthand "|
@@ -1087,88 +1095,180 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language append on input line 36.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 36.
+(babel)             in language append on input line 38.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 36.
+(babel)             in language append on input line 38.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 40.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 40.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 42.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 42.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 43.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 43.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 43.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 43.
 [3]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 37.
+(babel)             in language append on input line 43.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 37.
+(babel)             in language append on input line 43.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 37.
+(babel)             in language append on input line 44.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 37.
+(babel)             in language append on input line 44.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 44.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 44.
  [4]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 38.
+(babel)             in language append on input line 47.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 38.
+(babel)             in language append on input line 47.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 50.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 50.
+ <bakfiets_long_steps.jpg, id=122, 481.8pt x 321.45094pt>
+File: bakfiets_long_steps.jpg Graphic file (type jpg)
+ <use bakfiets_long_steps.jpg>
+Package pdftex.def Info: bakfiets_long_steps.jpg used on input line 51.
+(pdftex.def)             Requested size: 385.4405pt x 257.16109pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 54.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 54.
+ <ca_go.png, id=123, 752.0597pt x 331.99031pt>
+File: ca_go.png Graphic file (type png)
+ <use ca_go.png>
+Package pdftex.def Info: ca_go.png used on input line 56.
+(pdftex.def)             Requested size: 406.10619pt x 179.27208pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 59.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 59.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 59.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 59.
+ [5 <e:/awolfgang/Documents/AK_FC/gutachten/bakfiets_long_steps.jpg>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 60.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 60.
+ <urban_arrow_family.png, id=130, 1239.88219pt x 533.74406pt>
+File: urban_arrow_family.png Graphic file (type png)
+ <use urban_arrow_family.png>
+Package pdftex.def Info: urban_arrow_family.png used on input line 61.
+(pdftex.def)             Requested size: 402.95694pt x 173.46475pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 67.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 67.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 67.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 67.
+ [6 <e:/awolfgang/Documents/AK_FC/gutachten/ca_go.png> <e:/awolfgang/Documents/AK_FC/gutachten/urban_arrow_family.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 68.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 68.
+ <urban_arrow_cargo.jpg, id=137, 953.5625pt x 487.8225pt>
+File: urban_arrow_cargo.jpg Graphic file (type jpg)
+ <use urban_arrow_cargo.jpg>
+Package pdftex.def Info: urban_arrow_cargo.jpg used on input line 69.
+(pdftex.def)             Requested size: 395.72107pt x 202.44257pt.
 
-Overfull \hbox (8.01318pt too wide) in paragraph at lines 41--43
-\T1/cmr/m/n/14.4 in be-sag-ten Rad-la-den als Aus-stel-lungs-ob-jekt ge-nutzt so-wie zum Trans-
+Overfull \hbox (1.98134pt too wide) in paragraph at lines 69--73
+\T1/cmr/m/n/14.4 Das güns-ti-ge-re Mo-dell mit Shi-ma-no Deo-re Schei-ben-brem-sen wird für 4100\TS1/cmr/m/n/14.4 ¿
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 50.
+(babel)             in language append on input line 74.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 50.
+(babel)             in language append on input line 74.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 50.
+(babel)             in language append on input line 74.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 50.
-[5]
+(babel)             in language append on input line 74.
+[7 <e:/awolfgang/Documents/AK_FC/gutachten/urban_arrow_cargo.jpg>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 60.
+(babel)             in language append on input line 74.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 60.
+(babel)             in language append on input line 74.
+ <cube_cargo_hybrid.jpg, id=143, 1084.05pt x 507.8975pt>
+File: cube_cargo_hybrid.jpg Graphic file (type jpg)
+ <use cube_cargo_hybrid.jpg>
+Package pdftex.def Info: cube_cargo_hybrid.jpg used on input line 75.
+(pdftex.def)             Requested size: 390.2577pt x 182.84296pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 60.
+(babel)             in language append on input line 80.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 60.
- [6]
+(babel)             in language append on input line 80.
+ <radkutsche_rapid.png, id=144, 630.10406pt x 286.82156pt>
+File: radkutsche_rapid.png Graphic file (type png)
+ <use radkutsche_rapid.png>
+Package pdftex.def Info: radkutsche_rapid.png used on input line 81.
+(pdftex.def)             Requested size: 403.26523pt x 183.56516pt.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 60.
+(babel)             in language append on input line 86.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 60.
+(babel)             in language append on input line 86.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 60.
+(babel)             in language append on input line 86.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 60.
- [7]
+(babel)             in language append on input line 86.
+ [8 <e:/awolfgang/Documents/AK_FC/gutachten/cube_cargo_hybrid.jpg>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 61.
+(babel)             in language append on input line 86.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 61.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 64.
+(babel)             in language append on input line 86.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 64.
+(babel)             in language append on input line 86.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 64.
+(babel)             in language append on input line 86.
+ [9 <e:/awolfgang/Documents/AK_FC/gutachten/radkutsche_rapid.png>]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language append on input line 64.
+(babel)             in language append on input line 89.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language append on input line 64.
- [8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 64.
+(babel)             in language append on input line 89.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 91.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 91.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language append on input line 91.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language append on input line 91.
+ [10]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
  (e:/awolfgang\Documents\AK_FC\gutachten\quoteunquoteGutachten.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 64.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 64.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 91.
 Package rerunfilecheck Info: File `quoteunquoteGutachten.out' has not changed.
-(rerunfilecheck)             Checksum: 3915D5E4B7274C5CD24A860F28A58E9A;274.
+(rerunfilecheck)             Checksum: DC039D90739E3411C5D7A09F762042B7;1303.
  ) 
 Here is how much of TeX's memory you used:
- 12992 strings out of 493333
- 198721 string characters out of 3139639
- 384939 words of memory out of 3000000
- 16371 multiletter control sequences out of 15000+200000
- 8137 words of font info for 21 fonts, out of 3000000 for 9000
+ 13097 strings out of 493333
+ 200499 string characters out of 3139639
+ 382961 words of memory out of 3000000
+ 16431 multiletter control sequences out of 15000+200000
+ 15505 words of font info for 42 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,6n,51p,8895b,461s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\awolfgang\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\awolfgang\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1440.pk> <C:\Users\awolfgang\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk> <C:\Users\awolfgang\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1440.pk> <C:\Users\awolfgang\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx2074.pk>
-Output written on e:/awolfgang/Documents/AK_FC/gutachten/quoteunquoteGutachten.pdf (8 pages, 85748 bytes).
+ 42i,6n,51p,8895b,390s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\awolfgang\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1440.pk> <C:\Users\awolfgang\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\awolfgang\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1440.pk> <C:\Users\awolfgang\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1728.pk> <C:\Users\awolfgang\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk> <C:\Users\awolfgang\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx1440.pk> <C:\Users\awolfgang\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecsx2074.pk>
+Output written on e:/awolfgang/Documents/AK_FC/gutachten/quoteunquoteGutachten.pdf (10 pages, 1775699 bytes).
 PDF statistics:
- 266 PDF objects out of 1000 (max. 8388607)
- 15 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 417 PDF objects out of 1000 (max. 8388607)
+ 31 named destinations out of 1000 (max. 500000)
+ 183 words of extra memory for PDF output out of 10000 (max. 10000000)
 
